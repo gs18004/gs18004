@@ -5,6 +5,8 @@
 - [TanStack Query: fix inferring data as | undefined when using initialData without queryFn](https://github.com/TanStack/query/pull/8674)
 - [TanStack Query: prevent type errors and improve inference for dynamic queries on useQueries, useSuspenseQueries and createQueries](https://github.com/TanStack/query/pull/8624)
 - [TanStack Query: fix type breaking when using useSuspenseQueries with spreaded queryOptions](https://github.com/TanStack/query/pull/8709)
+- [es-toolkit: implement compat/maxBy](https://github.com/toss/es-toolkit/pull/949)
+- [es-toolkit: implement compat/pickBy](https://github.com/toss/es-toolkit/pull/950)
 - [es-hangul: modify numberToHangulMixed and numberToHangul to handle decimals, negatives, and infinity](https://github.com/toss/es-hangul/pull/323)
 
 ## Education
