@@ -5,6 +5,7 @@
 - [TanStack Query: fix inferring data as | undefined when using initialData without queryFn](https://github.com/TanStack/query/pull/8674)
 - [TanStack Query: prevent type errors and improve inference for dynamic queries on useQueries, useSuspenseQueries and createQueries](https://github.com/TanStack/query/pull/8624)
 - [TanStack Query: fix type breaking when using useSuspenseQueries with spreaded queryOptions](https://github.com/TanStack/query/pull/8709)
+- [TanStack Query: fix injectInfiniteQuery to narrow type after isSuccess](https://github.com/TanStack/query/pull/9016#event-17460119351)
 - [es-toolkit: implement compat/maxBy](https://github.com/toss/es-toolkit/pull/949)
 - [es-toolkit: implement compat/pickBy](https://github.com/toss/es-toolkit/pull/950)
 - [es-toolkit: implement compat/sortedLastIndex, compat/sortedLastIndexBy](https://github.com/toss/es-toolkit/pull/952)
